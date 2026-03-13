@@ -38,37 +38,46 @@ Cada componente del dashboard ha sido diseñado para responder a preguntas crít
 
 ### 📈 Indicadores Clave de Desempeño (KPIs)
 *   **Global Sales Volume**: Representa la capacidad de generación de ingresos brutos. Es la métrica primaria de crecimiento y penetración de mercado.
+  
 ![alt text](image-2.png)
 *   **Operational Expenses (OpEx)**: Mide el costo de mantener el negocio en marcha. Su control es vital para asegurar la sostenibilidad financiera.
+  
 ![alt text](image-3.png)
 *   **Budget Allocation**: El techo financiero planificado. Permite medir el grado de disciplina financiera de la organización.
+  
 ![alt text](image-4.png)
 *   **Efficiency Ratio (Sales/Expenses)**: Un indicador de retorno sobre la inversión operativa. Indica cuántos euros de venta se generan por cada euro gastado.
+  
 ![alt text](image-5.png)
 
 ### 🌍 Global Sales Distribution by Country
 *   **Objetivo**: Visualizar la concentración geográfica del negocio.
 *   **Teoría**: El uso de un gráfico de burbujas permite identificar rápidamente los mercados "estrella" (gran tamaño) y las oportunidades de expansión, facilitando la asignación de recursos según la importancia demográfica y comercial de cada país.
+  
 ![alt text](image-6.png)
 
 ### 📈 Performance Trend: Sales vs Expenses
 *   **Objetivo**: Analizar la correlación temporal entre ingresos y costos.
 *   **Teoría**: Busca detectar estacionalidades y asegurar que los gastos no crezcan a un ritmo superior a las ventas (efecto "mandíbula"). La línea de tendencia suaviza la volatilidad mensual para revelar la dirección real del negocio.
+  
 ![alt text](image-7.png)
 
 ### 🍩 OpEx Allocation
 *   **Objetivo**: Comprender la estructura de costos por Unidad de Negocio (BU).
 *   **Teoría**: Ayuda al Controller a identificar en qué áreas se concentra la mayor inversión operativa, permitiendo validar si esta distribución está alineada con las prioridades estratégicas de la empresa.
+  
 ![alt text](image-8.png)
 
 ### 📊 BU Execution (Sorted Desc)
 *   **Objetivo**: Benchmarking interno de ejecución presupuestaria.
 *   **Teoría**: Al presentar los datos de forma descendente, se aplica el principio de Pareto para enfocar la atención en las unidades con mayor impacto financiero, facilitando la detección de desviaciones significativas.
+  
 ![alt text](image-9.png)
 
 ### 📑 Top Cost Centers
 *   **Objetivo**: Control granular de focos de gasto.
 *   **Teoría**: Proporciona visibilidad sobre los proyectos o departamentos específicos que consumen la mayor parte de los recursos, permitiendo auditorías rápidas y ajustes tácticos inmediatos.
+  
 ![alt text](image-10.png)
 
 ---
@@ -85,8 +94,11 @@ Cada componente del dashboard ha sido diseñado para responder a preguntas crít
 1.  **Preparar Entorno**: `pip install -r requirements.txt`
 2.  **Configurar DB**: Instancia PostgreSQL activa (User: `postgres`, Pass: `TU_PASSWORD`).
 3.  **Ejecutar Simulación**: `python data_generator.py`
+   
 ![alt text](image-11.png)
+
 4.  **Lanzar Dashboard**: `streamlit run app.py`
+   
 ![alt text](image-12.png)
 ---
 ## 📊 7. Dashboard Interactivo
@@ -102,6 +114,7 @@ Este dashboard, construido con **Streamlit** y **Plotly**, permite a la empresa 
 
 ---
 ![alt text](image-13.png)
+
 ## 📜 8. Licencia y Derechos de Uso
 **Copyright (c) 2024 - Diego Vallejo**
 
