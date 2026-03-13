@@ -13,9 +13,9 @@ El dashboard utiliza un ecosistema de herramientas robustas y escalables:
 | Herramienta | Función | Logo |
 | :--- | :--- | :---: |
 | **Python** | Lenguaje Core y Lógica de Negocio | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> |
-| **Streamlit** | Framework de Interfaz Ejecutiva | <img src="https://static.streamlit.io/identity/streamlit-logo-secondary-colormark-darktext.png" width="80"> |
+| **Streamlit** | Framework de Interfaz Ejecutiva | <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" width="80"> |
 | **PostgreSQL** | Motor de Base de Datos Relacional | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"> |
-| **Plotly** | Visualización Dinámica y Animaciones | <img src="https://raw.githubusercontent.com/plotly/datasets/master/plotly_logo_dark.png" width="80"> |
+| **Plotly** | Visualización Dinámica y Animaciones | <img src="https://images.plot.ly/logo/plotlyjs-logo@2x.png" width="80"> |
 | **Pandas** | Procesamiento y Análisis de Datos | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"> |
 
 ---
